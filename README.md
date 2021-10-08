@@ -1,2 +1,2 @@
 # FinalAssignment
-oof
+Final assignment for Course IBM machine learning
